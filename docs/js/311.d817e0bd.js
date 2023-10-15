@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksecondvue"]=self["webpackChunksecondvue"]||[]).push([[311],{311:function(e,n,u){u.r(n),u.d(n,{default:function(){return i}});var t=function(){var e=this,n=e._self._c;return n("div")},s=[],l=(u(7658),{name:"BlankView",mounted(){this.$router.push("/home")}}),r=l,c=u(1001),o=(0,c.Z)(r,t,s,!1,null,null,null),i=o.exports}}]);
+//# sourceMappingURL=311.d817e0bd.js.map
